@@ -1,0 +1,6 @@
+mkv.cshost=10.101.130.211
+mkv.csport=13000
+mkv.user=mkv
+mkv.pwd=mkvpwd
+mkv.component=Name
+mkv.source=COOL_SOURCE
